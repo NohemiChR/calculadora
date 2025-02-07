@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-express",
+  "version": "1.0.0",
+  "description": "Calculadora hecha con expressjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "unestudiantepracticando",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
